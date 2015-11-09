@@ -22,6 +22,7 @@
 		DE42CBBC1BF02FD50034F4C1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DE42CBBF1BF02FD50034F4C1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DE42CBC11BF02FD50034F4C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DE42CBC71BF0302A0034F4C1 /* Velocimetro.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Velocimetro.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +55,7 @@
 		DE42CBB41BF02FD50034F4C1 /* Clase-Velocimetro */ = {
 			isa = PBXGroup;
 			children = (
+				DE42CBC71BF0302A0034F4C1 /* Velocimetro.playground */,
 				DE42CBB51BF02FD50034F4C1 /* AppDelegate.swift */,
 				DE42CBB71BF02FD50034F4C1 /* ViewController.swift */,
 				DE42CBB91BF02FD50034F4C1 /* Main.storyboard */,
